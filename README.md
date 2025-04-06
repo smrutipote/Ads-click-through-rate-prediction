@@ -2,6 +2,8 @@
 
 🌐 Deployment on Hugging Face Spaces : https://huggingface.co/spaces/smrup/Click-Through-Rate-Prediction-for-Advertisements
 
+For detailed code explanation : https://medium.com/@smruti.po1106/click-through-rate-prediction-for-advertisements-4d66d2469dcc
+
 This app is designed to run seamlessly on Hugging Face Spaces. Just upload the following files:
 app.py
 ads_info.csv
